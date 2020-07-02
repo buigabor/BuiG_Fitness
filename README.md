@@ -7,6 +7,8 @@ Made a mobile responsive website about Fitness. Practiced core CSS components su
 <img src="Demo/Demo1.png">
 <img src="Demo/Demo2.png">
 <img src="Demo/Demo3.png">
+<img src="Demo/Demo4.png">
+<img src="Demo/Demo5.png">
 
 # Technologies Used
 
